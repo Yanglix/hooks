@@ -32,7 +32,7 @@
     "react-router": "^5.0.0 || ^6.0.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.21.0",
+    "@babel/runtime": "^7.26.10",
     "ahooks": "^3.4.1",
     "query-string": "^8.1.0",
     "tslib": "^2.4.1"
